@@ -10,4 +10,4 @@ Sistema de cadastros desenvolvido com JavaScript, Express, MySQL.
 - BODYPARSER
 
 ![IMG1](https://github.com/danielcassiano/SignUpSystem/blob/master/loginsenha2.JPG)
-![IMG2](https://github.com/danielcassiano/SignUpSystem/blob/master/app.JPG)
+![IMG2](https://github.com/danielcassiano/SignUpSystem/blob/master/cadastros.JPG)
