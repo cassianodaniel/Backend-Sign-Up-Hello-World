@@ -1,12 +1,10 @@
-# SistemaDeCadastros
-Sistema de cadastros desenvolvido com JavaScript, Express, MySQL.
+# Backend Sign Up - Hello World
 
-É necessário ter os pacotes:
-- MYSQL
-- MYSQL2
-- SEQUELIZE
-- EXPRESS
-- EXPRESS-HANDLEBARS
-- BODYPARSER
+## Tech Stack
+- MySQL
+- Sequelize
+- Express
+- Handlebars
+- Bodyparser
 
 ![IMG1](https://github.com/danielcassiano/SignUpSystem/blob/master/loginsenha2.JPG)
